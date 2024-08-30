@@ -10,7 +10,7 @@
     <div class="sidebar">
         <img src="images/logo.jpg" alt="Admin Icon">
         <ul>
-            <li><a href="#">Ventas</a></li>
+            <li><a href="index.php?controller=ventas">Ventas</a></li>
             <li><a href="index.php?controller=admin_products">Productos</a></li>
             <li><a href="index.php?controller=admin_users">Usuarios</a></li> 
             <!-- Agrega más ítems según sea necesario -->
